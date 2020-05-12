@@ -3,7 +3,7 @@
     "description": "Simple API creation exercise",
     "type": "package",
     "license": "mit",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
