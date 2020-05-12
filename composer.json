@@ -1,5 +1,5 @@
 {
-    "name": "kok/pr01-api",
+    "name": "kok/api",
     "description": "Simple API creation exercise",
     "type": "package",
     "license": "mit",
@@ -7,7 +7,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "kok\\": "src/"
+            "kok\\api\\": "src/"
         }
     },
     "require": {}

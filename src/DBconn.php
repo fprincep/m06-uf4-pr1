@@ -1,5 +1,5 @@
 <?php
-namespace kok;
+namespace kok\api;
 use PDO;
 use PDOEXCEPTION;
 

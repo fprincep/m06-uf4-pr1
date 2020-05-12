@@ -1,5 +1,5 @@
 <?php
-namespace kok;
+namespace kok\api;
 
 include 'Venta.php';
 use PDO;
