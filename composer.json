@@ -7,8 +7,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "kok\\api\\": "src/"
+            "kok\\Api\\": "src/"
         }
-    },
-    "require": {}
+    }
 }

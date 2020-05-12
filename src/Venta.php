@@ -1,5 +1,5 @@
 <?php
-namespace kok\api;
+namespace kok\Api;
 
 require 'DBconn.php';
 
