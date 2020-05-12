@@ -4,9 +4,6 @@
     "type": "package",
     "license": "mit",
     "minimum-stability": "dev",
-    "config": {
-        "optimize-autoloader": true
-    },
     "require": {},
     "autoload": {
         "psr-4": {
